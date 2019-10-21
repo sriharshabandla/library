@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ebaa5c2-e5d2-4e8e-af36-a7fd3ed925fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/libapp/urls.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/librarymanagementsystem/libraryapp/libapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraryapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraryapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/libapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/libapp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/libapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/libapp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/libapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/libapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraryapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/libraryapp/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +35,7 @@
   <component name="ProjectId" id="1S0k1Td8uz5B0f0X6iZIK5sPlBE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/hotel-reservation-management-system" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

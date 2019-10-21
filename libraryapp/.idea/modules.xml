@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/hotel-reservation-management-system/.idea/hotel-reservation-management-system.iml" filepath="$USER_HOME$/hotel-reservation-management-system/.idea/hotel-reservation-management-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/libraryapp.iml" filepath="$PROJECT_DIR$/.idea/libraryapp.iml" />
+      <module fileurl="file://$USER_HOME$/librarymanagementsystem/.idea/librarymanagementsystem.iml" filepath="$USER_HOME$/librarymanagementsystem/.idea/librarymanagementsystem.iml" />
     </modules>
   </component>
 </project>
